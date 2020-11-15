@@ -1,0 +1,6 @@
+selenium==3.141.0
+clint==0.5.1
+colored==1.4.2
+requests==2.24.0
+undetected_chromedriver==1.4.2
+logging==0.4.9.6
